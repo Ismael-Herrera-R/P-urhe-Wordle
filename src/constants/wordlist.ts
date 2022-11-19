@@ -5,23 +5,23 @@ export const WORDS = [
   "tumpi",
   "iuiri",
   "ukata", //lleva tilde
-  "kuimu", //lleva tilde
-  "uichu", //lleva tilde
+  //"kuimu", //lleva tilde
+  //"uichu", //lleva tilde
   "mistu", //lleva tilde
   "auani",
   "axuni",
-  "kuinu", //lleva tilde
+  //"kuinu", //lleva tilde
   "taati", //lleva tilde
   "uampa", //lleva tilde
   "tempa", //lleva tilde
   "atache", //lleva tilde
   "jaasï", //lleva tilde
-  "xakua", //lleva tilde
-  "k'ekua", //lleva tilde
-  "tekua", //lleva tilde
+  //"xakua", //lleva tilde
+  //"k'ekua", //lleva tilde
+  //"tekua", //lleva tilde
   "urape",
   "ireta",
-  "pakua", //lleva tilde
+  //"pakua", //lleva tilde
   "iuini",
   "exeni",
   "atani",
