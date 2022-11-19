@@ -1,7 +1,7 @@
 {
-    "name": "Ayuujk-wordle",
+    "name": "P'urhe-wordle",
     "version": "0.1.0",
-    "homepage": "https://lbalbuenag.github.io/Ayuujk-Wordle",
+    "homepage": "https://github.com/Ismael-Herrera-R/P-urhe-Wordle",
     "private": true,
     "dependencies": {
         "@bcgov/bc-sans": "^1.0.1",
