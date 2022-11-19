@@ -1,0 +1,102 @@
+{
+    "about": "¿Ampeeski i ch'anakua?",
+    "gameName": "No Wordle - {{language}}",
+    "enterKey": "Axani",
+    "deleteKey": "Nompeerantani",
+    "notEnoughLetters": "No hay suficientes letras",
+    "wordNotFound": "No ampe uantakuaesti",
+    "solution": "La palabra era {{solution}}",
+    "gameCopied": "Juego copiado al portapapeles",
+    "howToPlay": "¿Na ch'anani?",
+    "instructions": "Adivina la palabra en {{tries}} intentos. Después de cada intento, el color de las letras cambiará para mostrar qué tan cerca estás de acertar la palabra.",
+    "pickYourLanguage": "Idioma eraku",
+    "correctSpotInstructions": "La letra A se encuentra en la palabra y está en la posición correcta.",
+    "wrongSpotInstructions": "La letra I se encuentra en la palabra pero en la posición incorrecta.",
+    "notInWordInstructions": "La letra M no se encuentra en la palabra.",
+    "guessDistribution": "Distribución de aciertos",
+    "statistics": "Estadísticas",
+    "totalTries": "Jugadas",
+    "successRate": "Victorias",
+    "currentStreak": "Racha actual",
+    "bestStreak": "Mejor racha",
+    "newWordCountdown": "Nueva palabra en",
+    "share": "Compartir",
+    "winMessages": [
+        "¡Gran trabajo!",
+        "Increíble",
+        "¡Bien hecho!"
+    ],
+    "firstExampleWord": [{
+            "letter": "A",
+            "highlight": true
+        },
+        {
+            "letter": "P",
+            "highlight": false
+        },
+        {
+            "letter": "O",
+            "highlight": false
+        },
+        {
+            "letter": "P",
+            "highlight": false
+        },
+        {
+            "letter": "U",
+            "highlight": false
+        }
+    ],
+    "secondExampleWord": [{
+            "letter": "A",
+            "highlight": false
+        },
+        {
+            "letter": "U",
+            "highlight": false
+        },
+        {
+            "letter": "I",
+            "highlight": true
+        },
+        {
+            "letter": "N",
+            "highlight": false
+        },
+        {
+            "letter": "I",
+            "highlight": false
+        }
+    ],
+    "thirdExampleWord": [{
+            "letter": "E",
+            "highlight": false
+        },
+        {
+            "letter": "X",
+            "highlight": false
+        },
+        {
+            "letter": "E",
+            "highlight": false
+        },
+        {
+            "letter": "M",
+            "highlight": true
+        },
+        {
+            "letter": "I",
+            "highlight": false
+        }
+    ],
+    "aboutAuthorSentence": "Este es un clon de código abierto del juego Wordle adaptado a {{language}} por <3>{{author}}</3>. ",
+    "aboutCodeSentence": "Echa un vistazo al <1>código original</1> de <3>Hannah Park</3> o echa un vistazo al <5>fork de Aidan Pine</5> y personalízalo para otro idioma. ",
+    "aboutDataSentence": "Las palabras para este juego se obtuvieron de <1>{{wordListSource}}</1>. ",
+    "aboutOriginalSentence": "También puedes jugar la original <1>aquí</1>",
+    "languages": {
+        "en": "English",
+        "es": "Español",
+        "sw": "Kiswahili",
+        "zh": "中文"
+    }
+}
