@@ -4,7 +4,7 @@ export const CONFIG = {
   wordLength: 5, // This sets how long each word is based on how many characters (as defined in orthography.ts) are in each word
   author: 'Ismael-Herrera-R', // Put your name here so people know who made this Wordle!
   authorWebsite: '', // Put a link to your website or social media here
-  wordListSource: 'Ju je uantani', // Describe the source material for your words here
+  wordListSource: 'Ju je uantani: Manual para la enseñanza de la lengua purhepecha', // Describe the source material for your words here
   wordListSourceLink: '', // Put a link to the source material for your words here
   //
   // THESE NEXT SETTINGS ARE FOR ADVANCED USERS
