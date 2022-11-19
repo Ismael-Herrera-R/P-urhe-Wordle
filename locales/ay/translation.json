@@ -1,0 +1,103 @@
+{
+    "about": "Tii yäꞋät kuyꞋaty",
+    "gameName": "Wordle - {{language}}",
+    "enterKey": "Kax",
+    "deleteKey": "PoꞋot",
+    "notEnoughLetters": "Jaakkujayï",
+    "wordNotFound": "KaꞋ yëꞋëpë ayuujk yïkpääty",
+    "solution": "\"{{solution}}\" yëꞋ ajaa",
+    "gameCopied": "Juego copiado al portapapeles",
+    "howToPlay": "Sutsoo mkuyꞋätt",
+    "instructions": "ÏxäꞋ {{tries}} oojk ja ayuujk. Ku tuꞋukꞋoojk xtanïꞋejxt, tïkätsp yë tajaaky jë yꞋuky jïts jateꞋn xnajäwït pïnë mpäätwännïp ja ayuujk.",
+    "pickYourLanguage": "WïꞋejx jë mꞋayuujk",
+    "correctSpotInstructions": "KaꞋpxy yë T të xkujayï.",
+    "wrongSpotInstructions": "Jaa jajp yë P, yaꞋyï apiky nyijkxy.",
+    "notInWordInstructions": "KaꞋts yë X tee.",
+    "guessDistribution": "Sää tëë xmïtapyääty",
+    "statistics": "Kejpxïn",
+    "totalTries": "KuyꞋaty",
+    "successRate": "TooꞋnïn",
+    "currentStreak": "KaꞋ mtïkëy",
+    "bestStreak": "KaꞋ mtïkëy jïnëjkx",
+    "newWordCountdown": "Janïm ja wenk ayuujk pyïtsëꞋmt",
+    "share": "YïkpojwäꞋkx",
+    "winMessages": [
+        "¡Të xmïmajatäꞋäky!",
+        "TsyäꞋämpë",
+        "¡Të mtëny!"
+    ],
+    "firstExampleWord": [{
+            "letter": "T",
+            "highlight": true
+        },
+        {
+            "letter": "I",
+            "highlight": false
+        },
+        {
+            "letter": "I",
+            "highlight": false
+        },
+        {
+            "letter": "X",
+            "highlight": false
+        },
+        {
+            "letter": "Y",
+            "highlight": false
+        }
+    ],
+    "secondExampleWord": [{
+            "letter": "J",
+            "highlight": false
+        },
+        {
+            "letter": "A",
+            "highlight": false
+        },
+        {
+            "letter": "P",
+            "highlight": true
+        },
+        {
+            "letter": "O",
+            "highlight": false
+        },
+        {
+            "letter": "M",
+            "highlight": false
+        }
+    ],
+    "thirdExampleWord": [{
+            "letter": "K",
+            "highlight": false
+        },
+        {
+            "letter": "Ë",
+            "highlight": false
+        },
+        {
+            "letter": "Ꞌ",
+            "highlight": false
+        },
+        {
+            "letter": "X",
+            "highlight": true
+        },
+        {
+            "letter": "P",
+            "highlight": false
+        }
+    ],
+    "aboutAuthorSentence": "Wordle yäꞋät kuyꞋaty xyëëw, jaꞋts të yïkpaꞋijxy jïts {{language}} të tyïknaxy ja <3>{{author}}</3>. ",
+    "aboutCodeSentence": "Ejx ja myïjawyeen <1>pujx wïnmääꞋny</1> mitiꞋ ja <3>Hannah Park</3> ojts tjäꞋäy uk wïꞋejx sää ja <5>Aidan Pine</5> të tyïktïkatsy jïts jë wenk ayuujk xpïktäkmït. ",
+    "aboutDataSentence": "Jajp tukiꞋiyï yë ääw ayuujk të tsyëëny <1>{{wordListSource}}</1>. ",
+    "aboutOriginalSentence": "Ëy nayïteꞋn <1>yää</1> mkuyꞋätt mää ojts tsyooꞋntäꞋäky yäꞋät kuyꞋaty.",
+    "languages": {
+        "ay": "Ayuujk",
+        "es": "Español",
+        "en": "English",
+        "sw": "Kiswahili",
+        "zh": "中文"
+    }
+}
