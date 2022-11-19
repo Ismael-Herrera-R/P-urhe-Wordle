@@ -94,7 +94,6 @@
     "aboutDataSentence": "Las palabras para este juego se obtuvieron de <1>{{wordListSource}}</1>. ",
     "aboutOriginalSentence": "También puedes jugar la original <1>aquí</1>",
     "languages": {
-        "ay": "Ayuujk",
         "en": "English",
         "es": "Español",
         "pr": "Purhepecha"
