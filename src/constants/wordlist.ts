@@ -26,7 +26,7 @@ export const WORDS = [
   "exeni",
   "atani",
   //"jucha",
-  "mánta", //lleva tilde
+  "manta", //lleva tilde
   "t'anta",
   "notki", //lleva tilde
   "iosti", //lleva tilde
