@@ -1,7 +1,7 @@
 {
     "name": "P'urhe-wordle",
     "version": "0.1.0",
-    "homepage": "https://github.com/Ismael-Herrera-R/P-urhe-Wordle",
+    "homepage": "https://github.io/Ismael-Herrera-R/P-urhe-Wordle",
     "private": true,
     "dependencies": {
         "@bcgov/bc-sans": "^1.0.1",
